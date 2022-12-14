@@ -13,11 +13,10 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@fontsource/fira-mono": "^4.5.10",
-		"@neoconfetti/svelte": "^1.0.0",
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
+		"@testing-library/svelte": "^3.2.2",
 		"@types/cookie": "^0.5.1",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.8.1",
